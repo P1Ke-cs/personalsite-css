@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+    background-color: #a42e2e;
+}
+
+h1{
+    padding-top: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    line-height: 2;
+}
+
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    line-height: 2;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    line-height: 2;
+}
+
+
+
+
+.top{
+    padding-top: 80px;
+    text-align: center;
+    background-color: #3b4f28;
+    padding-bottom: 80px;
+}
+
+.middle{
+    padding: 100px 0;
+    text-align: center;
+    background-color: #41a9ab;
+}
+
+.my-profile{
+    margin: auto;
+    width: 60%;
+    padding: 30px
+}
+
+.info{
+    margin: 80px auto;
+    text-align: center;
+    width: 40%;
+}
+
+.info-hobby{
+    margin: 80px auto;
+    text-align: center;
+    width: 40%;
+}
+
+.info-educ{
+    margin: 80px auto;
+    text-align: left;
+    width: 60%;
+}
+
+
+
+.pen-img{
+    float: left;
+    width: 25%;
+    margin-right: 50px;
+}
+
+.bottom{
+    background-color: #74ff5f;
+    text-align: center;
+    padding: 30px;
+}
+
+.contact-links{
+    margin: 0 30px;
+    text-decoration: none;
+    color: #e70939;
+}
